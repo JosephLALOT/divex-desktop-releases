@@ -5,7 +5,7 @@ Téléchargez la dernière version sur la page **[Releases](https://github.com/J
 
 | Système | Fichier à télécharger |
 |---|---|
-| Windows 10 et 11 | `Divex-Setup-<version>.exe` |
+| Windows 10 et 11 | `divex-desktop-Setup-<version>.exe` |
 | macOS (Intel et Apple Silicon) | `divex-desktop-<version>.dmg` |
 | Linux (la plupart des distributions) | `divex-desktop-<version>.AppImage` |
 | Linux (Debian, Ubuntu) | `divex-desktop_<version>_amd64.deb` |
@@ -24,4 +24,4 @@ Ce dépôt ne contient que les installeurs : le code de Divex n'est pas public. 
 
 ## Divex for desktop
 
-Divex dive log installers for Windows, macOS and Linux. Download the latest version from **[Releases](https://github.com/JosephLALOT/divex-desktop-releases/releases/latest)** and sign in with your usual Divex account: `Divex-Setup-<version>.exe` on Windows, the `.dmg` on macOS, the `.AppImage` or `.deb` on Linux. The other files are used by automatic updates.
+Divex dive log installers for Windows, macOS and Linux. Download the latest version from **[Releases](https://github.com/JosephLALOT/divex-desktop-releases/releases/latest)** and sign in with your usual Divex account: `divex-desktop-Setup-<version>.exe` on Windows, the `.dmg` on macOS, the `.AppImage` or `.deb` on Linux. The other files are used by automatic updates.
